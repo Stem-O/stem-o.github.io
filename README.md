@@ -18,7 +18,7 @@ git clone https://github.com/Stem-O/stem-o.github.io
 ## Note
 <p>
   Please do not copy the code without asking permission, this is for Stem-O alone. If you wish to copy
-the source code kindly contact email [owner](s1170044@usls.edu.ph).
+  the source code kindly contact email the <a href="mailto:s1170044@usls.edu.ph">owner</a>.
   </p>
 
 ## Contributing
