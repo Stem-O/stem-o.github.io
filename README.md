@@ -15,9 +15,12 @@ git clone https://github.com/Stem-O/stem-o.github.io
 ## Demo
 <img src="stemo-demo.png">
 
+## Note
+Please do not copy the code without asking permission, this is for Stem-O alone. If you wish to copy
+the source code kindly contact email [owner](s1170044@usls.edu.ph).
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 Please make sure to update tests as appropriate.
 
 ## Developer
