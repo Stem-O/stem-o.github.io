@@ -2,10 +2,10 @@
 
 Main Homepage website for Stem-O.
 
- <p align="center">
+ <p align="left">
 <img src="https://img.shields.io/badge/Website-StemO-blue" />
   <img src="https://img.shields.io/badge/Focus-WebDevlopment-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Philippines-success" />
+  <img src="https://img.shields.io/badge/Origin-Philippines-success" />
   <img src="https://img.shields.io/badge/CodeEditor-VisualStudio%20%26%20-brightgreen" />
 </p>
 
