@@ -1,4 +1,4 @@
-## Stem-O Main Homepage
+## :octocat: Stem-O Main Homepage
 
 Main Homepage website for Stem-O.
 
